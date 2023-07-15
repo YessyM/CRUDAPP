@@ -8,7 +8,7 @@ Este programa funciona haciendo uso de Html,CSS, Javascript y Jquery, como tal s
 [![Imagen](registro.png)](registro.png "Banner Registro") 
 Registro de estudiante
 
-#### Registro
+#### Listado de estudiantes
 
-[![Imagen](registro.png)](registro.png "Banner Registro") 
+[![Imagen](listado.png)](listado.png "Banner Listado") 
 Listado de estudiantes
