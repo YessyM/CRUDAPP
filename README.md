@@ -6,7 +6,7 @@ Este programa funciona haciendo uso de Html,CSS, Javascript y Jquery, como tal s
 
 #### Registro
 [![Imagen](registro.png)](registro.png "Banner Registro") 
-Registro de estudiante
+
 
 #### Listado de estudiantes
 
