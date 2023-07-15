@@ -1,2 +1,2 @@
 # CRUDAPP
-[main.png]
+[![Imagen](main.png)](main.png "Banner Principal")
