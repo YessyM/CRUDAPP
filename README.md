@@ -11,4 +11,4 @@ Registro de estudiante
 #### Listado de estudiantes
 
 [![Imagen](listado.png)](listado.png "Banner Listado") 
-Listado de estudiantes
+
